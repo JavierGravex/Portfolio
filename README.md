@@ -33,7 +33,7 @@ a user-friendly format.
  -  Applied computational logic to solve real-world math problems.
  [Link to project](https://github.com/JavierGravex/Scientific_Calculator)
 
- ### Course Tracker Application (C#) — Software Developer (Class Project)
+### Course Tracker Application (C#) — Software Developer (Class Project)
  Software Developer
  -  Built a desktop application to help students track courses, grades, and degree progress.
  -  Applied object-oriented programming concepts in C# for scalability and maintainability.
