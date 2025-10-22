@@ -1,0 +1,8 @@
+.sidebar img {
+    border-radius: 50%;
+    width: 120px;   /* adjust size as you like */
+    height: 120px;  /* keep it square for perfect circle */
+    object-fit: cover;
+    display: block;
+    margin: 10px auto; /* center in sidebar */
+}
