@@ -40,3 +40,11 @@ a user-friendly format.
  -  Implemented file handling for data persistence and user progress storage.
  [Link to project](https://github.com/JavierGravex/Course-Tracker-Application)
 
+## Contact Me
+
+Email: [javierariast0@gmail.com](mailto:javierariast0@gmail.com)  
+LinkedIn: [linkedin.com/in/luis-arias-45495b120](https://www.linkedin.com/in/luis-arias-45495b120)  
+
+<!-- Download button -->
+<a href="assets/files/Resume.pdf" target="_blank" style="padding:8px 15px; background-color:#0366d6; color:white; text-decoration:none; border-radius:5px;">Download Resume</a>
+
