@@ -1,5 +1,6 @@
 # Data Scientist
-![image](assets/imgs/20241202_223242.jpg)
+<img src="assets/imgs/20241202_223242.jpg" alt="Profile picture" width="150" style="border-radius: 50%; margin-top: 10px;">
+
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education		        		
