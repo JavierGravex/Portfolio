@@ -22,22 +22,22 @@ a user-friendly format.
 ## Projects
 ### Text Adventure: CyberPunk (Python) — Programmer (Class Project)
  Software Developer
- •  Designed and coded a text-based adventure game with branching story paths.
- •  Utilized modular programming to handle player input, game state, and logic flow.
- •  Practiced debugging and clean coding principles for interactive gameplay.
+ -  Designed and coded a text-based adventure game with branching story paths.
+ -  Utilized modular programming to handle player input, game state, and logic flow.
+ -  Practiced debugging and clean coding principles for interactive gameplay.
  [Link to project](https://github.com/JavierGravex/TextAdventure-CyberPunk) 
  
 ### Scientific Calculator (C++) — (Class Project)
  Software Developer
- •  Developed a command-line calculator supporting arithmetic and scientific operations.
- •  Strengthened understanding of functions, loops, and error handling in C++.
- •  Applied computational logic to solve real-world math problems.
+ -  Developed a command-line calculator supporting arithmetic and scientific operations.
+ -  Strengthened understanding of functions, loops, and error handling in C++.
+ -  Applied computational logic to solve real-world math problems.
  [Link to project](https://github.com/JavierGravex/Scientific_Calculator)
  
  ### Course Tracker Application (C#) — Software Developer (Class Project)
  Software Developer
- •  Built a desktop application to help students track courses, grades, and degree progress.
- •  Applied object-oriented programming concepts in C# for scalability and maintainability.
- •  Implemented file handling for data persistence and user progress storage.
+ -  Built a desktop application to help students track courses, grades, and degree progress.
+ -  Applied object-oriented programming concepts in C# for scalability and maintainability.
+ -  Implemented file handling for data persistence and user progress storage.
  [Link to project](https://github.com/JavierGravex/Course-Tracker-Application)
 
