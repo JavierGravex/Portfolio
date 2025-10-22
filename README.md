@@ -8,15 +8,15 @@
 ## Work Experience
 **Web Developer (Student Assistant) @ University of the Rio Grande Valley ( May 2024 - Present) Edinburg, TX, USA**
 
-•  Working with the Department of Writing & Language Studies and the Office for Bilingual Integration at UTRGV, in the project 
+- Working with the Department of Writing & Language Studies and the Office for Bilingual Integration at UTRGV on the project 
 CoBiVa (Corpus Bilingüe del Valle).
- •  Maintained and updated the university research website, ensuring consistent visual design, accessibility, and user experience.
- •  Utilized Cascading Style Sheets (CSS) and content management tools to modify layouts, images, and content based on the project 
+-  Maintained and updated the university research website, ensuring consistent visual design, accessibility, and user experience.
+-  Utilized Cascading Style Sheets (CSS) and content management tools to modify layouts, images, and content based on the project 
 needs.
- •  Developed interactive data visualizations using Shiny and Plotly (Python), supporting linguistic research by presenting large datasets in 
+-  Developed interactive data visualizations using Shiny and Plotly (Python), supporting linguistic research by presenting large datasets in 
 a user-friendly format.
- •  Collaborated directly with research teams to understand data requirements and deliver dynamic web solutions.
- •  Participated in website accessibility and optimization efforts following institutional standards.
+-  Collaborated directly with research teams to understand data requirements and deliver dynamic web solutions.
+-  Participated in website accessibility and optimization efforts following institutional standards.
 
 
 ## Projects
