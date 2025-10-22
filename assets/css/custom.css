@@ -1,8 +1,9 @@
-.sidebar img {
-    border-radius: 50%;
-    width: 120px;   /* adjust size as you like */
-    height: 120px;  /* keep it square for perfect circle */
-    object-fit: cover;
+/* Make sidebar logo/profile picture circular */
+#logo img, .sidebar img {
+    border-radius: 50% !important;  /* force circular */
+    width: 120px;                    /* adjust size */
+    height: 120px;                   /* keep square for perfect circle */
+    object-fit: cover;               /* crop image nicely */
     display: block;
-    margin: 10px auto; /* center in sidebar */
+    margin: 10px auto;               /* center in sidebar */
 }
