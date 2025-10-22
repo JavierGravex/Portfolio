@@ -32,7 +32,7 @@ a user-friendly format.
  -  Strengthened understanding of functions, loops, and error handling in C++.
  -  Applied computational logic to solve real-world math problems.
  [Link to project](https://github.com/JavierGravex/Scientific_Calculator)
- 
+
  ### Course Tracker Application (C#) — Software Developer (Class Project)
  Software Developer
  -  Built a desktop application to help students track courses, grades, and degree progress.
