@@ -1,4 +1,4 @@
-# Data Scientist
+# Software & Data Science Developer
 
 #### Technical Skills: Python, SQL, C++
 
