@@ -44,5 +44,5 @@ a user-friendly format.
 Email: [javierariast0@gmail.com](mailto:javierariast0@gmail.com)  
 LinkedIn: [linkedin.com/in/luis-arias-45495b120](https://www.linkedin.com/in/luis-arias-45495b120)  
 <br> 
-<a href="assets/files/Resume.pdf" target="_blank" style="padding:8px 15px; background-color:#0366d6; color:white; text-decoration:none; border-radius:5px;">Download Resume</a>
+<a href="assets/files/Javier_Arias_Resume.pdf" target="_blank" style="padding:8px 15px; background-color:#0366d6; color:white; text-decoration:none; border-radius:5px;">Download Resume</a>
 
