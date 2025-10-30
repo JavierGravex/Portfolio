@@ -1,6 +1,7 @@
 # Software & Data Science Developer
 
-#### Technical Skills: Python, SQL, C++
+#### Technical Skills: Python, SQL, C++, Java, Git, HTML/CSS, JavaScript, Data Visualization (Shiny, Plotly), Linux
+###  Other Skills: Problem-solving, Team Collaboration, Bilingual (English & Spanish)
 
 ## Education		        		
 B.S., Computer Science | The University of Texas Rio Grande Valley (_May 2022 - Present_)
