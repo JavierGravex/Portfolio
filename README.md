@@ -27,7 +27,7 @@ a user-friendly format.
  -  Practiced debugging and clean coding principles for interactive gameplay. <br>
  [Link to project](https://github.com/JavierGravex/TextAdventure-CyberPunk) 
  
-### Retro Game Server — (Class Project)
+### Retro Game Server (Linux) — (Class Project)
  Developer
 - Built a remote retro gaming server using Ubuntu, RetroArch, Sunshine, and Tailscale.
 - Configured peer-to-peer game streaming across networks with secure VPN tunneling.
