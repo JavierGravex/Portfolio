@@ -24,17 +24,22 @@ a user-friendly format.
  Software Developer
  -  Designed and coded a text-based adventure game with branching story paths.
  -  Utilized modular programming to handle player input, game state, and logic flow.
- -  Practiced debugging and clean coding principles for interactive gameplay.
+ -  Practiced debugging and clean coding principles for interactive gameplay. <br>
  [Link to project](https://github.com/JavierGravex/TextAdventure-CyberPunk) 
  
 ### Retro Game Server — (Class Project)
+ Developer
+- Built a remote retro gaming server using Ubuntu, RetroArch, Sunshine, and Tailscale.
+- Configured peer-to-peer game streaming across networks with secure VPN tunneling.
+- Troubleshot networking, latency, and emulator configuration issues to ensure smooth remote gameplay.
+- Gained hands-on experience with Linux setup, network troubleshooting, and real-time streaming technologies.<br>
  [Link to project](https://github.com/JavierGravex/Retro_Game_Server-)
 
 ### Course Tracker Application (C#) — Software Developer (Class Project)
  Software Developer
  -  Built a desktop application to help students track courses, grades, and degree progress.
  -  Applied object-oriented programming concepts in C# for scalability and maintainability.
- -  Implemented file handling for data persistence and user progress storage.
+ -  Implemented file handling for data persistence and user progress storage.<br>
  [Link to project](https://github.com/JavierGravex/Course-Tracker-Application)
 
 ## Contact Me
