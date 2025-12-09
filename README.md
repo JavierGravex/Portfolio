@@ -27,12 +27,8 @@ a user-friendly format.
  -  Practiced debugging and clean coding principles for interactive gameplay.
  [Link to project](https://github.com/JavierGravex/TextAdventure-CyberPunk) 
  
-### Scientific Calculator (C++) — (Class Project)
- Software Developer
- -  Developed a command-line calculator supporting arithmetic and scientific operations.
- -  Strengthened understanding of functions, loops, and error handling in C++.
- -  Applied computational logic to solve real-world math problems.
- [Link to project](https://github.com/JavierGravex/Scientific_Calculator)
+### Retro Game Server — (Class Project)
+ [Link to project](https://github.com/JavierGravex/Retro_Game_Server-)
 
 ### Course Tracker Application (C#) — Software Developer (Class Project)
  Software Developer
