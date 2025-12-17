@@ -20,13 +20,7 @@ a user-friendly format.
 
 
 ## Projects
-### Text Adventure: CyberPunk (Python) — Programmer (Class Project)
- Software Developer
- -  Designed and coded a text-based adventure game with branching story paths.
- -  Utilized modular programming to handle player input, game state, and logic flow.
- -  Practiced debugging and clean coding principles for interactive gameplay. <br>
- [Link to project](https://github.com/JavierGravex/TextAdventure-CyberPunk) 
- 
+
 ### Retro Game Server (Linux) — (Class Project)
  Developer
 - Built a remote retro gaming server using Ubuntu, RetroArch, Sunshine, and Tailscale.
@@ -35,12 +29,21 @@ a user-friendly format.
 - Gained hands-on experience with Linux setup, network troubleshooting, and real-time streaming technologies.<br>
  [Link to project](https://github.com/JavierGravex/Retro_Game_Server-)
 
-### Course Tracker Application (C#) — Software Developer (Class Project)
+### BMI Calculator (Dart) — Software Developer (Class Project)
  Software Developer
- -  Built a desktop application to help students track courses, grades, and degree progress.
- -  Applied object-oriented programming concepts in C# for scalability and maintainability.
- -  Implemented file handling for data persistence and user progress storage.<br>
- [Link to project](https://github.com/JavierGravex/Course-Tracker-Application)
+ - Designed and implemented core BMI calculation utilities in Dart, including metric and imperial formulas.
+ - Developed logic to determine healthy weight ranges and calculate required weight gain or loss based on BMI classification.
+ - Implemented BMI category classification (underweight, healthy, overweight, obese).
+ - Designed high-fidelity UI mockups in Figma and translated them into the application’s interface.
+ - Wrote and maintained unit tests and integration tests to validate calculation accuracy and app behavior. <br>
+ [Link to project](https://github.com/JavierGravex/BMI_Calculator)
+
+### Text Adventure: CyberPunk (Python) — Programmer (Class Project)
+ Software Developer
+ -  Designed and coded a text-based adventure game with branching story paths.
+ -  Utilized modular programming to handle player input, game state, and logic flow.
+ -  Practiced debugging and clean coding principles for interactive gameplay. <br>
+ [Link to project](https://github.com/JavierGravex/TextAdventure-CyberPunk) 
 
 ## Contact Me
 Email: [javierariast0@gmail.com](mailto:javierariast0@gmail.com)  
