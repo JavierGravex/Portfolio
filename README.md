@@ -1,4 +1,4 @@
-# Software & Data Science Developer
+# Software Developer
 
 #### Technical Skills: Python, SQL, C++, Git, HTML/CSS, JavaScript, Data Visualization (Shiny, Plotly), Linux
 ####  Other Skills: Problem-solving, Team Collaboration, Bilingual (English & Spanish)
