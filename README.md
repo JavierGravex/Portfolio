@@ -35,21 +35,33 @@ B.S., Computer Science | The University of Texas Rio Grande Valley (_May 2022 - 
 
 ## Projects
 
-### CoBiVa: Bilingual Language Dominance Dashboard (Python) — Software Developer / Researcher
+### SmartApply: AI-Powered Job Assistant (Senior Project) | Expected Completion: May 2026
+**Project Manager & AI/API Developer**
+- Leading the development of a Flask-based application that utilizes OpenAI and SerpAPI to analyze job postings and verify 
+company legitimacy.
+- Architecting the backend services for AI integration and Resume Parsing, implementing a "Mock AI" mode for secure and 
+cost-effective development.
+- Orchestrating team workflows using Agile principles, managing feature branches, and conducting code reviews via GitHub Pull 
+Requests.
+
+### CoBiVa: Bilingual Language Dominance Dashboard (Python)
+**Software Developer / Researcher**
 
 - Developed an interactive data visualization suite using Pandas and Plotly to map sociolinguistic trends.
 - Engineered custom interactive charts (Sunburst, Mirror Pyramid, and Scatter Plots) to visualize language dominance clusters in the Rio Grande Valley.
 - Implemented professional environment management and clean documentation for reproducibility in academic research.
 -  [Link to project](https://github.com/JavierGravex/Sociolinguistic-Data-Viz)
 
-### Retro Game Server (Linux) — Developer
+### Retro Game Server (Linux)
+**Developer**
 - Built a remote retro gaming server using Ubuntu, RetroArch, Sunshine, and Tailscale.
 - Configured peer-to-peer game streaming across networks with secure VPN tunneling.
 - Troubleshot networking, latency, and emulator configuration issues to ensure smooth remote gameplay.
 - Gained hands-on experience with Linux setup, network troubleshooting, and real-time streaming technologies.<br>
  [Link to project](https://github.com/JavierGravex/Retro_Game_Server-)
 
-### BMI Calculator (Dart) — Software Developer 
+### BMI Calculator (Dart)
+**Software Developer** 
 
  - Designed and implemented core BMI calculation utilities in Dart, including metric and imperial formulas.
  - Developed logic to determine healthy weight ranges and calculate required weight gain or loss based on BMI classification.
@@ -58,7 +70,8 @@ B.S., Computer Science | The University of Texas Rio Grande Valley (_May 2022 - 
  - Wrote and maintained unit tests and integration tests to validate calculation accuracy and app behavior. <br>
  [Link to project](https://github.com/JavierGravex/BMI_Calculator)
 
-### Text Adventure: CyberPunk (Python) — Programmer 
+### Text Adventure: CyberPunk (Python) 
+**Programmer** 
  
  -  Designed and coded a text-based adventure game with branching story paths.
  -  Utilized modular programming to handle player input, game state, and logic flow.
