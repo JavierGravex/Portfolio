@@ -14,16 +14,23 @@
 B.S., Computer Science | The University of Texas Rio Grande Valley (_May 2022 - Present_)
 
 ## Work Experience
-**Web Developer (Student Assistant) @ University of the Rio Grande Valley ( May 2024 - Present) Edinburg, TX, USA**
-- Working with the Department of Writing & Language Studies and the Office for Bilingual Integration at UTRGV on the project 
-CoBiVa (Corpus Bilingüe del Valle).
--  Maintained and updated the university research website, ensuring consistent visual design, accessibility, and user experience.
--  Utilized Cascading Style Sheets (CSS) and content management tools to modify layouts, images, and content based on the project 
-needs.
--  Developed interactive data visualizations using Shiny and Plotly (Python), supporting linguistic research by presenting large datasets in 
-a user-friendly format.
--  Collaborated directly with research teams to understand data requirements and deliver dynamic web solutions.
--  Participated in website accessibility and optimization efforts following institutional standards.
+**Web Developer & Research Data Assistant | UTRGV (May 2024 – Present)**
+
+- Data Engineering & Visualization (CoBiVa Project):
+
+- Developed interactive data visualization suites using Python (Plotly/Dash) to map linguistic dominance trends for the Corpus Bilingüe del Valle.
+
+- Collaborated with lead researchers to translate raw sociolinguistic datasets into dynamic dashboards for public and academic use.
+
+- Optimized data workflows to ensure accurate representation of bilingual speaker metadata and interview statistics.
+
+**Web Development & Institutional Support:**
+
+- Managed the department’s research presence using Cascade CMS, maintaining high standards for visual design and university branding.
+
+- Implemented CSS and UI/UX improvements to enhance the accessibility of research materials for the Office for Bilingual Integration.
+
+- Ensured 100% compliance with institutional web accessibility standards and SEO best practices.  Participated in website accessibility and optimization efforts following institutional standards.
 
 
 ## Projects
