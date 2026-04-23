@@ -109,12 +109,11 @@ A branching narrative text adventure game set in a cyberpunk world.
 
 | Category | Skills |
 |---|---|
-| **Languages** | Python, SQL, Dart, JavaScript, C# |
-| **AI & APIs** | OpenAI API, LangChain, Prompt Engineering, SerpAPI |
-| **Data & Visualization** | Pandas, NumPy, Plotly, Matplotlib, Seaborn, Dash, Jupyter |
-| **Backend & Databases** | Flask, FastAPI, REST APIs, PostgreSQL, MySQL |
-| **Tools** | Git/GitHub, Docker, Linux/Unix, Figma, Unity, Cascade CMS |
-| **Methods** | Agile/Scrum, Unit Testing, WCAG Accessibility |
+| **Core Language** | Python |
+| **AI & LLM Development** | OpenAI API, Prompt Engineering, AI-powered app development, LangChain |
+| **Data & Visualization** | Pandas, NumPy, Matplotlib, Plotly, Seaborn, Jupyter Notebooks |
+| **Backend & Data Layer** | Flask, FastAPI, Django, SQL / databases |
+| **Dev Tools & Workflow** | Git/GitHub, HTML & CSS (editing), AI-assisted development, Cascade CMS |
 
 ---
 
