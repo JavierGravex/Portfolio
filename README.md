@@ -1,7 +1,7 @@
 # Javier Arias
 ### Software Developer · AI & Data · Bilingual (EN/ES)
 
-📧 [javierariast0@gmail.com](mailto:javierariast0@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/javier-arias-45495b120/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/JavierGravex) &nbsp;|&nbsp; 📄 [Download Resume](assets/files/Javier_Arias_Resume.pdf)
+[javierariast0@gmail.com](mailto:javierariast0@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/javier-arias-45495b120/) &nbsp;|&nbsp; [GitHub](https://github.com/JavierGravex) &nbsp;|&nbsp; [Download Resume](assets/files/Javier_Arias_Resume.pdf)
 
 ---
 
