@@ -22,10 +22,23 @@ An AI-powered web app that analyzes job postings, parses resumes, and verifies c
 
 - Leading a team of 4 developers as Project Manager using Agile/Scrum and GitHub Pull Requests
 - Architected Flask backend with OpenAI and SerpAPI integration for real-time job data analysis
-- Built a Mock AI mode to simulate responses during development — keeping costs low without slowing the team down
+- Built a Mock AI mode to simulate responses during development, keeping costs low without slowing the team down
 - Implemented resume parsing and AI-driven feedback on resume–job fit
 
 > *Expected completion: May 2026*
+
+---
+### 📖 Blog Notebook — Full-Stack Blogging Platform *(Personal Project)*
+**Next.js (App Router) · TypeScript · Supabase · Tailwind CSS · Resend ·**
+
+A modern blog platform with an admin dashboard for publishing Markdown posts, plus built-in newsletter signup and basic post analytics.
+- Built a full-stack Next.js app with Supabase (Auth + Postgres) for secure admin login and post storage
+- Implemented an admin dashboard to create/edit posts and manage publish status, with “Top posts (30 days)” view tracking
+- Added SEO + distribution features including dynamic blog pages, rss.xml, and sitemap.xml routes
+- Integrated a double opt-in newsletter flow using Supabase tables
+   + Resend email confirmations (confirm/unsubscribe pages + API route)
+
+[View Project →](https://github.com/JavierGravex/Blog_Notebook)
 
 ---
 
