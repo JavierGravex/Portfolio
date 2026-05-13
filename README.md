@@ -124,7 +124,7 @@ A branching narrative text adventure game set in a cyberpunk world.
 | Category | Skills |
 |---|---|
 | **Core Language** | Python |
-| **AI & LLM Development** | OpenAI API, Prompt Engineering, AI-powered app development, LangChain |
+| **AI & LLM Development** | OpenAI API, AI-powered app development |
 | **Data & Visualization** | Pandas, NumPy, Matplotlib, Plotly, Seaborn, Jupyter Notebooks |
 | **Backend & Data Layer** | Flask, FastAPI, Django, SQL / databases |
 | **Dev Tools & Workflow** | Git/GitHub, HTML & CSS (editing), AI-assisted development, Cascade CMS |
