@@ -25,7 +25,8 @@ An AI-powered web app that analyzes job postings, parses resumes, and verifies c
 - Built a Mock AI mode to simulate responses during development, keeping costs low without slowing the team down
 - Implemented resume parsing and AI-driven feedback on resume–job fit
 
-> *Expected completion: May 2026*
+[View Project →](https://github.com/JavierGravex/SmartApply)
+
 
 ---
 ### 📖 Blog Notebook — Full-Stack Blogging Platform *(Personal Project)*
