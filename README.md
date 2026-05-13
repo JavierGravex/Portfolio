@@ -123,7 +123,7 @@ A branching narrative text adventure game set in a cyberpunk world.
 
 | Category | Skills |
 |---|---|
-| **Core Language** | Python |
+| **Core Language** | Python, C++ |
 | **AI & LLM Development** | OpenAI API, AI-powered app development |
 | **Data & Visualization** | Pandas, NumPy, Matplotlib, Plotly, Seaborn, Jupyter Notebooks |
 | **Backend & Data Layer** | Flask, FastAPI, Django, SQL / databases |
