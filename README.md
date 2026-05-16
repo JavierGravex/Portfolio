@@ -7,9 +7,7 @@
 
 ## About Me
 
-Senior Computer Science student at UTRGV with real-world experience building AI-powered applications, interactive data visualizations, and research tools. I work at the intersection of Python development and applied AI — using tools like the OpenAI API and LangChain to build things that actually solve problems.
-
-Bilingual English/Spanish. TEDx speaker. Currently open to entry-level roles in AI engineering, data analysis, and Python development.
+Computer Science graduate and Software Engineer specializing in AI-integrated applications and interactive data platforms. I have led development teams to build tools like SmartApply, an AI assistant utilizing the OpenAI API. From architecting ETL workflows for research datasets to maintaining focus and precision in high-stakes clinical environments, I bring a commitment to reliability and clear, bilingual (Spanish, English) communication to every project. I am currently seeking full-time opportunities in software engineering, AI automation, and data analysis.
 
 ---
 
