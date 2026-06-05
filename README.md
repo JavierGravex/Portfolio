@@ -121,18 +121,18 @@ A branching narrative text adventure game set in a cyberpunk world.
 
 | Category | Skills |
 |---|---|
-| **Core Language** | Python, C++ |
+| **Core Language** | Python, TypeScript, JavaScript, SQL, C++, Bash  |
 | **AI & LLM Development** | OpenAI API, AI-powered app development |
 | **Data & Visualization** | Pandas, NumPy, Matplotlib, Plotly, Seaborn, Jupyter Notebooks |
-| **Backend & Data Layer** | Flask, FastAPI, Django, SQL / databases |
+| **Backend & Data Layer** | Flask, FastAPI, Django, PostgreSQL, SQL |
 | **Dev Tools & Workflow** | Git/GitHub, HTML & CSS (editing), AI-assisted development, Cascade CMS |
 
 ---
 
 ## Education
 
-**B.S. Computer Science** — University of Texas Rio Grande Valley &nbsp;·&nbsp; GPA: 3.52
+**B.S. Computer Science** — University of Texas Rio Grande Valley &nbsp;·&nbsp; GPA: 3.55
 
 ---
 
-*Brownsville, TX &nbsp;·&nbsp; Open to remote and South Texas opportunities*
+*Brownsville, TX &nbsp;·&nbsp; Open to relocation*
