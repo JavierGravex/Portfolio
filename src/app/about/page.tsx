@@ -38,7 +38,7 @@ export default function Home() {
                 <a href="https://github.com/JavierGravex" className={icons} target="_blank" rel="noopener noreferrer">
                 <FaGithub size={20}/></a>
             
-                <a href="/files/Javier_Arias_resume_S.pdf" className={icons} target="_blank" rel="noopener noreferrer" >
+                <a href="/files/Javier_Arias_Resume_S.pdf" className={icons} target="_blank" rel="noopener noreferrer" >
                 <FileText size={20}/></a>
            
             </div>
