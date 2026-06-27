@@ -8,8 +8,36 @@ export default function Home() {
       <h1 className="text-4xl font-bold mb-6 text-center">Projects</h1>
 
       <div className="grid grid-cols-2 gap-6">
-        
+
       {/* Card 1 */}
+        <div className="border rounded-xl overflow-hidden">
+
+          <div className="h-100 overflow-hidden">
+          <video 
+          src="/videos/HYS-DEMO.mp4"
+          controls
+          muted
+          playsInline
+          className="w-full h-full object-contain"
+          />
+          </div>
+
+          <div className="p-4 overflow-y-auto max-h-32">
+            <a href="https://github.com/KvotheArcaneFarseer/HYS_Cancer-Genomics-Platform" target="_blank" rel="noopener noreferrer">
+            <h3 className="text-xl font-bold mt-2">Cancer Genomics Plataform</h3> </a>
+            
+            <h2 className=" text-gray-400"> Research Assistant Tool </h2>
+            
+            <p>
+              A web app that turns cancer genomics data, 
+              normally only readable by people with bioinformatics training 
+              into plain-language summaries anyone can understand.
+            </p>
+
+          </div>
+        </div>
+        
+      {/* Card 2 */}
         <div className="border rounded-xl overflow-hidden">
 
           <div className="h-100 overflow-hidden">
@@ -36,7 +64,7 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Card 2 */}
+        {/* Card 3 */}
         <div className="border rounded-xl overflow-hidden">
           
           <div className="h-100 overflow-hidden">
@@ -63,7 +91,7 @@ export default function Home() {
           </div>
         </div>
 
-         {/* Card 3 */}
+         {/* Card 4 */}
         <div className="border rounded-xl overflow-hidden">
           <div className="h-100 overflow-hidden">
           <Image 
@@ -89,7 +117,7 @@ export default function Home() {
           </div>
         </div>
 
-         {/* Card 4 */}
+         {/* Card 5 */}
         <div className="border rounded-xl overflow-hidden">
           
           <div className="h-100 overflow-hidden">
