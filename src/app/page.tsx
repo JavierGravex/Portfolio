@@ -7,7 +7,7 @@ export default function Home() {
   const [text, setText] = useState("")
    useEffect(() => {
     
-    const message = "Hii!, I'm Javier Arias, \n welecome to my portfolio!"
+    const message = "Hii!, I'm Javier Arias, \n welcome to my portfolio!"
   
     let index = 0
     setText("")
